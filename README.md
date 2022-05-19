@@ -18,4 +18,7 @@ Entre em contato comigo em:
 
 ## Ferramentas e Tecnologias 🖥️
 
-<img src="img/python-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height=50 width=50/>
+<img src="img/python-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height=50 width=50/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height=50 width=50/>
+
+
+
